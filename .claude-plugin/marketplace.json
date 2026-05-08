@@ -10,6 +10,12 @@
       "source": "./plugins/confluence-reader",
       "description": "Read-only access to Confluence pages, spaces, and blog posts via the acli CLI tool",
       "version": "0.1.1"
+    },
+    {
+      "name": "jira-reader",
+      "source": "./plugins/jira-reader",
+      "description": "Read-only access to Jira tickets, projects, boards, and sprints via the acli CLI tool",
+      "version": "0.1.0"
     }
   ]
 }
