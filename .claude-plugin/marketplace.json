@@ -15,7 +15,7 @@
       "name": "jira-reader",
       "source": "./plugins/jira-reader",
       "description": "Read-only access to Jira tickets, projects, boards, and sprints via the acli CLI tool",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
