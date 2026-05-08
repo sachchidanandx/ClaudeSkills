@@ -9,7 +9,7 @@
       "name": "confluence-reader",
       "source": "./plugins/confluence-reader",
       "description": "Read-only access to Confluence pages, spaces, and blog posts via the acli CLI tool",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
