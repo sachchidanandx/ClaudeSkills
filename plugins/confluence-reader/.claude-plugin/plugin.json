@@ -1,0 +1,7 @@
+{
+  "name": "confluence-reader",
+  "description": "Read-only access to Confluence pages, spaces, and blog posts via the acli CLI tool",
+  "author": {
+    "name": "local"
+  }
+}

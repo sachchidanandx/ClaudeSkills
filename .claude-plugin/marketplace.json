@@ -1,0 +1,15 @@
+{
+  "name": "sachchidanandx-skills",
+  "description": "Custom Claude Code plugins and skills",
+  "owner": {
+    "name": "sachchidanandx"
+  },
+  "plugins": [
+    {
+      "name": "confluence-reader",
+      "source": "./plugins/confluence-reader",
+      "description": "Read-only access to Confluence pages, spaces, and blog posts via the acli CLI tool",
+      "version": "0.1.0"
+    }
+  ]
+}
