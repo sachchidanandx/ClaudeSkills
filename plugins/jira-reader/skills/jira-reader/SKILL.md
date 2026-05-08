@@ -1,7 +1,27 @@
 ---
 name: jira-reader
 description: Use this skill whenever the user asks about Jira tickets, issues, stories, bugs, epics, sprints, boards, or projects. This includes questions like "what's the status of PROJ-123", "show me my open tickets", "what's in the current sprint", "list projects", or any request that involves reading information from Jira. Always use this skill when the user mentions Jira, tickets, issues, sprints, boards, or asks about work items and project tracking.
-allowed-tools: [Bash(acli jira workitem view*), Bash(acli jira workitem search*), Bash(acli jira workitem comment list*), Bash(acli jira workitem link list*), Bash(acli jira workitem attachment list*), Bash(acli jira workitem watcher list*), Bash(acli jira project list*), Bash(acli jira project view*), Bash(acli jira board search*), Bash(acli jira board get*), Bash(acli jira board list-sprints*), Bash(acli jira board list-projects*), Bash(acli jira sprint view*), Bash(acli jira sprint list-workitems*), Bash(acli jira dashboard search*), Bash(acli jira filter list*), Bash(acli jira filter get*), Bash(acli jira auth status*)]
+allowed-tools:
+  [
+    Bash(acli jira workitem view*),
+    Bash(acli jira workitem search*),
+    Bash(acli jira workitem comment list*),
+    Bash(acli jira workitem link list*),
+    Bash(acli jira workitem attachment list*),
+    Bash(acli jira workitem watcher list*),
+    Bash(acli jira project list*),
+    Bash(acli jira project view*),
+    Bash(acli jira board search*),
+    Bash(acli jira board get*),
+    Bash(acli jira board list-sprints*),
+    Bash(acli jira board list-projects*),
+    Bash(acli jira sprint view*),
+    Bash(acli jira sprint list-workitems*),
+    Bash(acli jira dashboard search*),
+    Bash(acli jira filter list*),
+    Bash(acli jira filter get*),
+    Bash(acli jira auth status*),
+  ]
 ---
 
 # Jira Reader
