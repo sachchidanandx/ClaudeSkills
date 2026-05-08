@@ -1,6 +1,7 @@
 ---
 name: confluence-reader
 description: Use this skill whenever the user asks about Confluence content, wiki pages, documentation hosted in Confluence, or references a Confluence page/space. This includes questions like "what does the wiki say about...", "find the confluence page for...", "look up our docs on...", "what's in space X", or any request that involves reading information from Atlassian Confluence. Always use this skill when the user mentions Confluence, wiki, or asks about internal documentation that might be stored in Confluence.
+allowed-tools: [Bash(acli confluence space list*), Bash(acli confluence space view*), Bash(acli confluence page view*), Bash(acli confluence blog list*), Bash(acli confluence blog view*), Bash(acli confluence auth status*)]
 ---
 
 # Confluence Reader
