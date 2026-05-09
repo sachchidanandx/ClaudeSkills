@@ -16,6 +16,12 @@
       "source": "./plugins/jira-reader",
       "description": "Read-only access to Jira tickets, projects, boards, and sprints via the acli CLI tool",
       "version": "0.1.1"
+    },
+    {
+      "name": "openstack-webui",
+      "source": "./plugins/openstack-webui",
+      "description": "Interact with OpenStack Horizon dashboard via browser automation using Playwright for instance management, networking, volumes, security groups, and cloud configuration",
+      "version": "0.1.0"
     }
   ]
 }
