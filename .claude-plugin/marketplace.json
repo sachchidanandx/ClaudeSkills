@@ -1,8 +1,8 @@
 {
-  "name": "sachchidanandx-skills",
+  "name": "sachchidanand-skills",
   "description": "Custom Claude Code plugins, skills, and agents",
   "owner": {
-    "name": "sachchidanandx"
+    "name": "Sachchidanand Kumar"
   },
   "plugins": [
     {
