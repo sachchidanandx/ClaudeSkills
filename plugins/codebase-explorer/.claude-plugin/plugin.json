@@ -1,0 +1,8 @@
+{
+  "name": "codebase-explorer",
+  "description": "Interactive Socratic agent for learning unfamiliar codebases through guided exploration and questioning",
+  "version": "0.2.0",
+  "author": {
+    "name": "Sachchidanand Kumar"
+  }
+}

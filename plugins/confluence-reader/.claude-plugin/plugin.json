@@ -1,0 +1,8 @@
+{
+  "name": "confluence-reader",
+  "description": "Read Confluence pages, spaces, and blog posts via acli CLI",
+  "version": "0.2.0",
+  "author": {
+    "name": "Sachchidanand Kumar"
+  }
+}

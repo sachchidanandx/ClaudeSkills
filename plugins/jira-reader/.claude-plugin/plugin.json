@@ -1,0 +1,8 @@
+{
+  "name": "jira-reader",
+  "description": "Read Jira tickets, projects, boards, and sprints via acli CLI",
+  "version": "0.2.0",
+  "author": {
+    "name": "Sachchidanand Kumar"
+  }
+}

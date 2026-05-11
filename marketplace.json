@@ -1,0 +1,43 @@
+{
+  "name": "sachchidanand-skills",
+  "description": "Custom Claude Code plugins, skills, and agents by Sachchidanand Kumar",
+  "version": "0.2.0",
+  "owner": {
+    "name": "Sachchidanand Kumar",
+    "url": "https://github.com/sachchidanandx"
+  },
+  "plugins": [
+    {
+      "name": "codebase-explorer",
+      "description": "Interactive Socratic agent for learning unfamiliar codebases",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codebase-explorer"
+      }
+    },
+    {
+      "name": "jira-reader",
+      "description": "Read Jira tickets, projects, boards, and sprints via acli CLI",
+      "source": {
+        "source": "local",
+        "path": "./plugins/jira-reader"
+      }
+    },
+    {
+      "name": "confluence-reader",
+      "description": "Read Confluence pages, spaces, and blog posts via acli CLI",
+      "source": {
+        "source": "local",
+        "path": "./plugins/confluence-reader"
+      }
+    },
+    {
+      "name": "openstack-webui",
+      "description": "Interact with OpenStack Horizon dashboard via browser automation",
+      "source": {
+        "source": "local",
+        "path": "./plugins/openstack-webui"
+      }
+    }
+  ]
+}
