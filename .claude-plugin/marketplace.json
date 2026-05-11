@@ -27,7 +27,7 @@
       "name": "codebase-explorer",
       "source": "./plugins/codebase-explorer",
       "description": "Socratic codebase exploration mentor — guides interactive learning of unfamiliar codebases through questioning and incremental discovery",
-      "version": "0.1.2"
+      "version": "0.1.3"
     }
   ]
 }
