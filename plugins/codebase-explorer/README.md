@@ -25,13 +25,23 @@ Instead of dumping documentation or explanations, this agent teaches you to navi
 
 ## Installation
 
-1. Copy the agent file to your Claude agents directory:
+### Via Marketplace (Recommended)
 
 ```bash
-cp codebase-explorer.md ~/.claude/agents/
+# Add the ClaudeSkills marketplace
+/plugin marketplace add sachchidanandx/ClaudeSkills
+
+# Install the plugin
+/plugin install codebase-explorer@sachchidanandx-skills
 ```
 
-2. That's it. On first use, the agent will ask where to store its memory (user-level or project-level).
+### Manual
+
+```bash
+cp agents/codebase-explorer.md ~/.claude/agents/
+```
+
+On first use, the agent will ask where to store its memory (user-level or project-level).
 
 ## Usage
 

@@ -22,15 +22,12 @@
       "source": "./plugins/openstack-webui",
       "description": "Interact with OpenStack Horizon dashboard via browser automation using Playwright for instance management, networking, volumes, security groups, and cloud configuration",
       "version": "0.1.0"
-    }
-  ],
-  "agents": [
+    },
     {
       "name": "codebase-explorer",
-      "source": "./agents/codebase-explorer",
+      "source": "./plugins/codebase-explorer",
       "description": "Socratic codebase exploration mentor — guides interactive learning of unfamiliar codebases through questioning and incremental discovery",
-      "version": "0.1.0",
-      "model": "opus"
+      "version": "0.1.0"
     }
   ]
 }
