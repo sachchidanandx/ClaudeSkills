@@ -1,7 +1,0 @@
-{
-  "name": "jira-reader",
-  "description": "Read-only access to Jira tickets, projects, boards, and sprints via the acli CLI tool",
-  "author": {
-    "name": "Sachchidanand Kumar"
-  }
-}

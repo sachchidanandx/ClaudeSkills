@@ -1,8 +1,0 @@
-{
-  "name": "openstack-webui",
-  "description": "Interact with OpenStack Horizon dashboard via browser automation using Playwright for instance management, networking, volumes, security groups, and cloud configuration",
-  "version": "0.1.0",
-  "author": {
-    "name": "Sachchidanand Kumar"
-  }
-}
